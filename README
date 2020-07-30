@@ -1,0 +1,14 @@
+Sources for Course Grader
+
+sql:  sql-files for the Oracle database; use SQL*Plus to execute the
+      file vu_model.sql
+
+www:  The tcl scripts; more documentation in the actual files... ;)
+
+tcl:  Tcl-routines that are loaded at web-server startup - specific for
+      this particular web-server
+
+00-ad-utilities.tcl: Tcl-routines that are loaded at web-server
+      startup - shared by all web-servers
+
+Martin Elsman
